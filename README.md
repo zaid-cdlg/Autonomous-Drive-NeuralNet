@@ -35,5 +35,3 @@ For queries or discussions about the project, please open an issue in this repos
 
 ---
 
-(Replace `[repository URL]` with the actual URL of your GitHub repository)
-
